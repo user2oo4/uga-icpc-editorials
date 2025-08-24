@@ -20,17 +20,19 @@ The quick version:
 5. **Push** your branch: `git push origin add/your-editorial-name`
 6. **Open a Pull Request (PR)** on GitHub for review.
 
+
 ## Repository Structure
-```
+
+```plaintext
 icpc-editorials/
 │
-├── README.md          # The main guide (you're about to write)
-├── CONTRIBUTING.md    # Rules for contributing
-├── resources/         # General resources (still useful)
+├── README.md                # The main guide (you're reading it)
+├── CONTRIBUTING.md          # Rules for contributing
+├── resources/               # General resources
 │   └── useful-links.md
 │
-└── fall-2025/                 # Semester
-    ├── week-0-welcome/        # Topic or Week Number
+└── fall-2025/                       # Semester
+    ├── week-0-welcome/              # Topic or Week Number
     │   ├── problem_a.md
     │   ├── problem_a.cpp
     │   └── problem_b.py
@@ -39,7 +41,7 @@ icpc-editorials/
     ├── week-2-dp/
     │   └── ...
     └── practice-contests/
-        ├── practice-contest-1-2025-09-01/  # Specific contest
+        ├── practice-contest-1-2025-09-01/    # Specific contest
         │   ├── A_Soup.py
         │   ├── A_Soup_Explanation.md
         │   ├── J_Tiles.cpp
