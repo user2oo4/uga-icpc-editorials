@@ -21,7 +21,7 @@ The quick version:
 6. **Open a Pull Request (PR)** on GitHub for review.
 
 ## Repository Structure
-
+```
 icpc-editorials/
 │
 ├── README.md          # The main guide (you're about to write)
@@ -46,3 +46,4 @@ icpc-editorials/
         │   └── J_Tiles_Notes.md
         └── practice-contest-2-2025-09-15/
             └── ...
+```
