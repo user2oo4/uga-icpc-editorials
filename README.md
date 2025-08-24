@@ -28,8 +28,7 @@ icpc-editorials/
 │
 ├── README.md                # The main guide (you're reading it)
 ├── CONTRIBUTING.md          # Rules for contributing
-├── resources/               # General resources
-│   └── useful-links.md
+├── useful-links.md          # General resources
 │
 └── fall-2025/                       # Semester
     ├── week-0-welcome/              # Topic or Week Number
